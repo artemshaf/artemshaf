@@ -57,6 +57,10 @@
     <h2 align="left">Front-end</h2>
   </div>
 
+  <br />
+  <br />
+  <br />
+
   > Generals
 
   <br />
@@ -461,7 +465,7 @@
     <td align="center" width="90" height="90">
       <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img
-          src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+          src="https://www.svgrepo.com/show/354202/postman-icon.svg"
           alt="postman"
           width="40"
           height="40"
@@ -471,7 +475,7 @@
     <td align="center" width="90" height="90">
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+          src="https://www.svgrepo.com/show/349342/docker.svg"
           alt="docker"
           width="40"
           height="40"

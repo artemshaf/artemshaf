@@ -1,26 +1,26 @@
 <div>
   <h1 align="center">👋 Hi, I'm Artem - frontend developer.</h1>
-  <h2>
+  <div>
     🎯 Translating your goals into web applications: Translating your ideas into
     elegant and intuitive web applications that impress and achieve your goals.
-  </h2>
-  <h2>
+  </div>
+  <div>
     💡 Inspiration + Code = Innovative Applications: User interface developer
     combining creative thinking and programming.
-  </h2>
-  <h2>
+  </div>
+  <div>
     🔨 Frontend Technology Master: Focused on front-end development, I am
     proficient in modern tools and technologies.
-  </h2>
-  <h2>
+  </div>
+  <div>
     🎨 Front-end developer, in love with details and striving for perfection. My
     goal is to create stunning visual interfaces that turn functionality into
     amazing beauty.
-  </h2>
-  <h2>
+  </div>
+  <div>
     🌈 I turn business ideas and tasks into visually and technically appealing
     entities that embody beauty and functionality.
-  </h2>
+  </div>
 
   <div>
     <div>
@@ -52,9 +52,7 @@
   </div>
   <br />
   <br />
-  <br />
-  <br />
-  <br />
+
   <div>
     <h2 align="left">Front-end</h2>
   </div>
@@ -62,11 +60,10 @@
   > Generals
 
   <br />
-  <br />
 
   <table width="100%">
     <tr>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -76,7 +73,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a
           href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
           target="_blank"
@@ -90,7 +87,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a
           href="https://www.typescriptlang.org/"
           target="_blank"
@@ -104,7 +101,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -114,7 +111,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a
           href="https://www.w3schools.com/css/"
           target="_blank"
@@ -128,7 +125,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -138,7 +135,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
           <img
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -148,7 +145,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a href="https://redux.js.org" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -158,7 +155,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a href="https://graphql.org" target="_blank" rel="noreferrer">
           <img
             src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
@@ -168,7 +165,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a>
           <img
             src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg"
@@ -181,17 +178,13 @@
     </tr>
   </table>
 
-  <br />
-  <br />
-
   > Builders, Testing and other tools
 
-  <br />
   <br />
 
   <table he width="100%">
     <tr>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
@@ -201,7 +194,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a>
           <img
             src="https://vitejs.dev/logo.svg"
@@ -212,7 +205,7 @@
         </a>
         <br />Vite
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
           <img
             src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
@@ -222,7 +215,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a href="https://jestjs.io" target="_blank" rel="noreferrer">
           <img
             src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
@@ -232,7 +225,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
@@ -242,7 +235,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a>
           <img
             src="https://assets.devographics.com/projects/testing_library.png"
@@ -252,7 +245,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a>
           <img
             src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg"
@@ -262,7 +255,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a>
           <img
             src="https://playwright.dev/img/playwright-logo.svg"
@@ -272,7 +265,7 @@
           />
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="90" height="90">
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -282,8 +275,8 @@
           />
         </a>
       </td>
-      <td align="center">
-        <a href="#debabin-stack">
+      <td align="center" width="90" height="90">
+        <a>
           <img
             src="https://media.zeemly.com/zeemly/product/material-ui.png"
             width="40"
@@ -292,20 +285,17 @@
           />
         </a>
         <br />
-        <span>UI-Kit <br />libs</span>
+        <span>UI-Kit</span>
       </td>
     </tr>
   </table>
-
-  <br />
-  <br />
 
   > Quality code
 
   <table width="100%">
     <tr>
-      <td align="center" width="110" height="90">
-        <a>
+      <td align="center" width="90" height="90">
+        <a href="https://eslint.org/" target="_blank" rel="noreferrer">
           <img
             src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg"
             width="40"
@@ -314,8 +304,8 @@
           />
         </a>
       </td>
-      <td align="center" width="110" height="90">
-        <a>
+      <td align="center" width="90" height="90">
+        <a href="https://prettier.io/" target="_blank" rel="noreferrer">
           <img
             src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg"
             width="40"
@@ -324,18 +314,22 @@
           />
         </a>
       </td>
-      <td align="center" width="110" height="90">
-        <a>
+      <td align="center" width="90" height="90">
+        <a href="https://stylelint.io/" target="_blank" rel="noreferrer">
           <img
             src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg"
             width="40"
             height="40"
-            alt="Prettier"
+            alt="Stylelint"
           />
         </a>
       </td>
-      <td align="center" width="110" height="90">
-        <a>
+      <td align="center" width="90" height="90">
+        <a
+          href="https://typicode.github.io/husky/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img
             src="https://www.svgrepo.com/show/500093/husky.svg"
             width="40"
@@ -346,8 +340,12 @@
           <span>Husky</span>
         </a>
       </td>
-      <td align="center" width="110" height="90">
-        <a>
+      <td align="center" width="90" height="90">
+        <a
+          href="https://github.com/features/actions"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img
             src="https://www.svgrepo.com/show/306098/githubactions.svg"
             width="40"
@@ -361,16 +359,12 @@
     </tr>
   </table>
 
-  <br />
-  <br />
-
   <h2 align="left">Back-end</h2>
 
   <br />
-  <br />
   <table width="100%">
     <tr>
-      <td>
+      <td align="center" width="90" height="90">
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -380,7 +374,7 @@
           />
         </a>
       </td>
-      <td>
+      <td align="center" width="90" height="90">
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
@@ -390,7 +384,7 @@
           />
         </a>
       </td>
-      <td>
+      <td align="center" width="90" height="90">
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -400,7 +394,7 @@
           />
         </a>
       </td>
-      <td>
+      <td align="center" width="90" height="90">
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -410,7 +404,7 @@
           />
         </a>
       </td>
-      <td>
+      <td align="center" width="90" height="90">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -420,7 +414,7 @@
           />
         </a>
       </td>
-      <td>
+      <td align="center" width="90" height="90">
         <a
           href="https://www.microsoft.com/en-us/sql-server"
           target="_blank"
@@ -443,7 +437,7 @@
   <h3 style="text-align: center">Others</h3>
 
   <table width="100%">
-    <td>
+    <td align="center" width="90" height="90">
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -453,7 +447,7 @@
         />
       </a>
     </td>
-    <td>
+    <td align="center" width="90" height="90">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -464,7 +458,7 @@
       </a>
     </td>
 
-    <td>
+    <td align="center" width="90" height="90">
       <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -474,7 +468,7 @@
         />
       </a>
     </td>
-    <td>
+    <td align="center" width="90" height="90">
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"

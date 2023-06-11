@@ -50,16 +50,15 @@
       </p>
     </div>
   </div>
+
+  <br />
+  <br />
   <br />
   <br />
 
   <div>
     <h2 align="left">Front-end</h2>
   </div>
-
-  <br />
-  <br />
-  <br />
 
   > Generals
 
@@ -442,26 +441,21 @@
 
   <table width="100%">
     <td align="center" width="90" height="90">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-          alt="figma"
-          width="40"
-          height="40"
-        />
-      </a>
+      <img
+        src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+        alt="figma"
+        width="40"
+        height="40"
+      />
     </td>
     <td align="center" width="90" height="90">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
-          width="40"
-          height="40"
-        />
-      </a>
+      <img
+        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+        alt="git"
+        width="40"
+        height="40"
+      />
     </td>
-
     <td align="center" width="90" height="90">
       <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img

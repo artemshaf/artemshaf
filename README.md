@@ -295,6 +295,8 @@
 
   > Quality code
 
+  <br />
+
   <table width="100%">
     <tr>
       <td align="center" width="90" height="90">
@@ -435,9 +437,10 @@
   </table>
 
   <br />
-  <br />
 
-  <h3 style="text-align: center">Others</h3>
+  <h2 style="text-align: center">Others</h2>
+
+  <br />
 
   <table width="100%">
     <td align="center" width="90" height="90">
